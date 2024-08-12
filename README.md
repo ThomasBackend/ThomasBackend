@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael Thomas Toyi===========================================================================================================================================Backend Engineer || Systems Analyst-----------------------------------I am a passionate software developer with two years of experience in the IT industry in software development, design, maintenance, and documentation of enterprise applications in NodeJs, Typescript, ExpressJs, Javascript, MongoDB, and SQL. Recognized for picking up tools necessary to accomplish a given task. A dedicated and proactive developer who has built competency in effective communication, emotional intelligence, and time management.* 🌍  I'm based in Nigeria.* 🖥️  See my portfolio at [Github](http://https://github.com/ThomasBackend)* ✉️  You can contact me at [thomasmj.mt@gmail.com](mailto:thomasmj.mt@gmail.com)* 🧠  I'm learning ExpressJs, Backend Engineering, Software Engineering.* 🤝  I'm open to collaborating on interesting projects.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael Thomas Toyi
+===========================================================================================================================================
+
+Backend Engineer || Systems Analyst
+-----------------------------------
+
+I am a passionate software developer with two years of experience in the IT industry in software development, design, maintenance, and documentation of enterprise applications in NodeJs, Typescript, ExpressJs, Javascript, MongoDB, and SQL. Recognized for picking up tools necessary to accomplish a given task. A dedicated and proactive developer who has built competency in effective communication, emotional intelligence, and time management.* 🌍  I'm based in Nigeria.* 🖥️  See my portfolio at [Github](http://https://github.com/ThomasBackend)* ✉️  You can contact me at [thomasmj.mt@gmail.com](mailto:thomasmj.mt@gmail.com)* 🧠  I'm learning ExpressJs, Backend Engineering, Software Engineering.* 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
 
